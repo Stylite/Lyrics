@@ -11,7 +11,7 @@ use std::str;
 fn main() {
     
     let matches = App::new("lyrics")
-        .version("0.1.0")
+        .version("1.0.0")
         .author("William <me@stylite.me>")
         .about("Genius lyric grabber")
         .arg(Arg::with_name("URL")

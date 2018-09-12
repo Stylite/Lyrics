@@ -1,6 +1,6 @@
 [package]
 name = "lyrics"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["William <me@stylite.me>"]
 license = "ISC"
 repository = "https://github.com/Stylite/Lyrics.git"
