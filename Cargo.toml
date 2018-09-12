@@ -1,0 +1,11 @@
+[package]
+name = "lyrics"
+version = "0.1.0"
+authors = ["William <me@stylite.me>"]
+license = "ISC"
+repository = "https://github.com/Stylite/Lyrics.git"
+
+[dependencies]
+reqwest = "0.8.6"
+scraper = "0.7.0"
+clap = "2.26.0"
